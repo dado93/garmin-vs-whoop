@@ -1,4 +1,4 @@
-# Whoop vs Garmin
+# Garmin vs Whoop - A Comparison
 
 In this repository you will find code and data that I used to compare wearable data collected from a Garmin Venu (worn on my non-dominant arm) and a Whoop 4.0 
 (worn on my dominant arm).
