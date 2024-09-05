@@ -1,0 +1,12 @@
+CALENDAR_DATE_COL = "calendarDate"
+DURATION_IN_MS_COL = "durationInMs"
+ISODATE_COL = "isoDate"
+TIMEZONEOFFSET_IN_MS_COL = "timezoneOffsetInMs"
+UNIXTIMESTAMP_IN_MS_COL = "unixTimestampInMs"
+VALIDATION_COL = "validation"
+SLEEP_SUMMARY_ID_COL = "sleepSummaryId"
+
+AWAKE_DURATION_IN_MS_COL = "awakeDurationInMs"
+REM_SLEEP_DURATION_IN_MS_COL = "remSleepDurationInMs"
+LIGHT_SLEEP_DURATION_IN_MS_COL = "lightSleepDurationInMs"
+DEEP_SLEEP_DURATION_IN_MS_COL = "deepSleepDurationInMs"
